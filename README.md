@@ -10,5 +10,5 @@ I enjoy understanding how systems work, building reliable infrastructure, and au
 
 ## Projects
 
-- [tblx](https://github.com/askmehrun/tblx) — binary columnar data format and terminal-based exploration tool
-- [libtblx](https://github.com/askmehrun/libtblx) — implementation of the TBLX format with C and Python interfaces
+- [TBLX](https://github.com/askmehrun/tblx) — binary columnar data format and terminal-based exploration tool
+- [libtblx](https://github.com/askmehrun/libtblx) — Go implementation of the TBLX format with C and Python interfaces
